@@ -1,3 +1,7 @@
+#titulo{
+    padding-left: 550px;
+    font-size: 50px;
+}
 #counter{
     background-color: rgb(77, 77, 77);
     color: yellow;
@@ -17,4 +21,7 @@
 #craft{
     background-color: rgb(77, 77, 77);
     color: saddlebrown;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
 }

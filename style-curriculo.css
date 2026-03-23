@@ -1,0 +1,22 @@
+#Escolaridade{
+    padding-left: 30px;
+}
+#Curso{
+    padding-left: 30px;
+}
+#titulo-curso{
+    padding-left: 30px;
+}
+#tr-curso1 th{
+    padding-left: 10px;
+}
+#tr-curso2 td{
+    padding-left: 10px;
+}
+#titulo{
+    padding-left: 560px;
+    font-size: 40px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,27 @@
+#titulo{
+    padding-left: 100px;
+    font-size: 50px;
+}
+#subtitulo{
+    padding-left: 100px;
+    font-size: 20px;
+}
+#subtitulolinks{
+    padding-left: 100px;
+    font-size: 20px;
+}
+#links{
+    padding-left: 180px;
+    font-size: 20px;
+}
+#AssinaturaImagem{
+    padding-left: 40px;
+    font-size: 20px;
+}
+#AssinaturaTexto{
+    padding-left: 60px;
+    font-size: 20px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
